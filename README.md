@@ -1,2 +1,1 @@
-pex-obj
-=======
+OBJ reader for the pex library
